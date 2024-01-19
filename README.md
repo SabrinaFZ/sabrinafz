@@ -1,5 +1,5 @@
 # Hi there 👋 
 
 ## 👩‍💻About me 
- I am a Computer Engineer and Web Developer with experience in different front-end & back-end technologies.
+I am a Computer Engineer with experience as a Web Developer, specializing in both frontend and backend technologies. 
  
